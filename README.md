@@ -53,7 +53,4 @@ This project demonstrates the implementation of **Simple Linear Regression** and
 
 ---
 
-## Brief Description
-This project showcases the implementation of **Simple Linear Regression** and **Support Vector Regression (SVR)**. It covers data preprocessing, model training, and evaluation for both regression and classification tasks. The code is modular, with clear steps for dataset handling, model training, and error analysis. It also includes optional visualization for better understanding of the results.
-
 Feel free to contribute or suggest improvements!
